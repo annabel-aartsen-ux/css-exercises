@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.oneven {
+    background-color: #f08080;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#tweede {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#derde, #vierde {
+    font-size: 24px;
+}
+
+#vierde {
+    background-color: #90ee90;
+    font-weight: bold;
+}

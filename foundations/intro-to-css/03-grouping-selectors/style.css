@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.black_and_white {
+    background-color: #000000;
+    color: white;
+}
+
+.yellow {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.black_and_white .yellow {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
